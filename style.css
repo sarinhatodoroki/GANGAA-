@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(img/CAPIVARA.jpeg);
+}
+
+header {
+    background-color: #850016;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #ff93db;
+}
+
+nav a {
+    color: hsl(0, 0%, 0%);
+    padding: 14px 20px;
+    font-weight: bold;
+    text-decoration: dotted;
+    text-align: center;
+}
+
+nav a:hover {
+    background-color: #9e096c;
+}
+
+
+main {
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    
+}
+
+footer {
+    background-color: #80001c;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
