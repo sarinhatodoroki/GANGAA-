@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #850016;
+    background-color: #d4a87f;
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -15,7 +15,7 @@ header {
 nav {
     display: flex;
     justify-content: center;
-    background-color: #ff93db;
+    background-color: #a38263;
 }
 
 nav a {
@@ -27,19 +27,22 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #9e096c;
+    background-color: #8b4a0e;
 }
 
 
 main {
     padding: 20px;
     color: rgb(255, 255, 255);
-    
+    text-align: center;
+    text-shadow: black 2px 2px;
+    font-size: 50px;
+   
 }
 
 footer {
-    background-color: #80001c;
-    color: #fff;
+    background-color: #a38263;
+    color: #000000;
     text-align: center;
     padding: 10px 0;
     position: fixed;
